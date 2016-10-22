@@ -1,6 +1,6 @@
 # docker-sonarqube-python
 
-Easy to start sonarqube server with python plugins. Evaluation mode only atm.
+Runs the latest sonarqube in docker so you don't have to pollute your system with Java.
 
 ```
 docker run -d -p 9000:9000 zaquestion/sonarqube-python
